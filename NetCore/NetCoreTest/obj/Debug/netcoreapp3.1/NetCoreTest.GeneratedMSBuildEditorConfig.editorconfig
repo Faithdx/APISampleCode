@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NetCoreTest
+build_property.ProjectDir = C:\ZAGIT\SMSService\APISampleCode\NetCore\NetCoreTest\

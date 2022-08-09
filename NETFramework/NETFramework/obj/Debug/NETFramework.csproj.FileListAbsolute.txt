@@ -1,0 +1,8 @@
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\bin\Debug\NETFramework.exe.config
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\bin\Debug\NETFramework.exe
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\bin\Debug\NETFramework.pdb
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\obj\Debug\NETFramework.csproj.AssemblyReference.cache
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\obj\Debug\NETFramework.csproj.SuggestedBindingRedirects.cache
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\obj\Debug\NETFramework.csproj.CoreCompileInputs.cache
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\obj\Debug\NETFramework.exe
+C:\ZAGIT\SMSService\APISampleCode\NETFramework\NETFramework\obj\Debug\NETFramework.pdb

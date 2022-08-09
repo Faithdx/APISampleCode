@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\daxin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\daxin\\.nuget\\packages",
+      "C:\\Tools\\DEV\\VS2022\\Shared\\NuGetPackages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
